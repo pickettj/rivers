@@ -1,0 +1,17 @@
+Name,Length,Zipcode,Gauge_ID,Min_Level,Max_Level,Min_cfs,Max_cfs,Whitewater,Route,Notes
+Conemaugh,8.4,15681,03044000,3.2,6.7,,,0,Conemaugh Dam to Saltsburg,
+Clarion_XYZ,8,15853,03029000,3,5,,,2,Portland Mills through XYZ rapids to Irwin Run,
+Loyalhanna,9,15650,03045000,3.4,5,,,1,Latrobe to the Dam,
+Northern_Yough,7,15473,03082500,2.1,4.5,630,4300,0,Connellsville to Perryapolis (or Dawson),
+Middle_Yough,9,15470,03081500,2.2,6.0,,,2,Confluence to Ohiopyle,
+Trough,11,26757,01608500,1.8,12,,,2,Old Fields Bridge (put-in) to Trough General Store,
+Slip,4.1,16051,03106500,,,300,1500,3,Rose Point to Eckhart Bridge,
+Lower_Yough,7.2,15470,03081500,1.5,7,,,3,,
+Cheat Narrows,3.8,26425,03069500,,,500,8000,3,Below Rowlesburg to above Albright Power Dam (Narrows),
+Packsaddle_Gap,,15949,03041500,2.4,4,,,1,Robinson Community Center to Wyotech Park,
+Bottom_Yough_W-Newton,,15089,03082500,2,4.5,,,0,,
+PA_Grand_Canyon,,17723,01548500,2.0,3.5,,,2,Pine Ck (Pa Grand Cnyn)	page 402,https://www.reddit.com/r/canoecamping/comments/1kam8ez/pennsylvanias_grand_canyon/
+Susq_West_Branch,23,17778,01542500,2,10,,,2,,
+Beaver_Falls,,16157,03107500,3.9,10,,,0,,
+Upper_Allegheny,15,16365,03012550,,,2500,6000,,Kinzua Dam to Buckaloons (for instance),
+Upper_Shenango,,16134,03102850,2.5,5,,,,,https://shenangoriverwatchers.org/upper-shenango-river-water-trail/

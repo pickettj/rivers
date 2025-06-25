@@ -1,0 +1,271 @@
+River,Section,Distance,Class,Gradient,Area,AvgCFS,Size,Nearby_Gauge,Lo_OK,Hi_OK,Aux_Gauge,Aux_Lo_OK,Aux_Hi_OK,CG_Page
+Allegheny Portage Ck,Wrights-mouth,5.5,I-II,16/20,61,102,Port,Allegheny,,,,,,292
+Allegheny R,A: Coudersport-Salamana,78.0,A,3/11,248,464,Med,Port Allegheny,3.0,,Eldred,4.6,,140
+Allegheny R,B: Salamanca-Kinzau Dam,33.0,A,flat,1608,2777,Lg,Salamanca,4.0,,,,,141
+Allegheny R,C: Kinzua Dam-W Monterey,120.0,B,3/3,5982,10550,Lg,Franklin,1.7,4.9,Kinzua,7.5,8.5,142
+Allegheny R,D: W Monterey-Pittsburgh,79.0,A,pool,11410,19670,Huge,Natrona,,,,,,146
+Bear Ck,FS 339-Clarion R,9.0,I,20/26,41,68,Tiny,-,Ridgway,7.0,,,250
+Bear Ck,SR 219-Friendsville,6.7,III-IV,75/120,-,-,-,Friendsville,,,,,,344
+Bear Ck S Br,Accident-Bear Ck,5.9,III-IV,107/154,-,-,-,Friendsville,4.3,5.0,,,346
+Beaver R,A: New Castle-Wampum,6.5,A-B,3/3,2235,2494,Lg,Wampum,3.5,,Bvr Falls,4.0,,90
+Beaver R,B: Wampum-Ohio R,16.5,A-B,pool,3106,3758,Lg,Beaver Falls,3.9,,,,,91
+Bens Ck,N Fk Bens Ck-Stony Ck,3.0,II,35/55,49,82,Tiny,-,Ferndale,4.0,,,194
+Big Sandy Ck,A: Bruceton Mills-Rkvl,5.8,III-IV,28/47,200,422,Med,Rockville,5.8,7.0,,,369
+Big Sandy Ck,B: Rockville-Jenkinsburg,5.1,V,81/107,200,422,Med,Rockville,5.8,6.5,,,370
+Black Fk,Hendricks-Parsons,3.7,II,16/26,475,792,Med,Parsons,4.0,6.0,,,378
+Blacklick Ck,A: Wehrum-Heshbon,12.0,I-II,18/20,150,250,Sm,Josephine,4.1,,,,,170
+Blacklick Ck,B: Heshbon-Josephine,6.2,III-IV,26/66,195,370,Med,Josephine,3.8,4.6,,,171
+Blacklick Ck,C: Josephine-ConemaughL,11.0,B,5/15,390,671,Med,Josephine,,,,,,172
+Blacklick Ck North Br,Blw SR271-Vintondale,10.0,II-III,36/50,69,115,Sm,-,Josephine,,,,183
+Blacklick Ck South Br,Nanty Glo-Vintondale,7.1,II-III,42/105,47,78,Tiny,-,Josephine,5.5,,,182
+Blackwater R,N Fk Jct-Hendricks,7.0,V-VI,96/120,86,199,Sm,Davis,2.5,3.5,Parsons,4.0,5.5,378
+Brokenstraw Ck,Garland-Youngsville,12.0,C-I,8/14,321,587,Med,Youngsville,,,,,,291
+Brush Ck,Manor-Trafford,11.8,I,15/20,58,97,Tiny,-,,,,,302
+Buffalo Ck (Armstrong Co),A: Worthington-W Winfld,8.5,I-II,12/22,90,150,Sm,Freeport,1.6,2.6,,,152
+Buffalo Ck (Armstrong Co),B: W Winfield-Freeport,11.0,I,10/10,137,194,Sm,Freeport,1.7,2.8,,,153
+Buffalo Ck (Wash. Co),A: Taylorstn Sta-Bethny,21.8,I-II,11/15,114,190,Sm,-,,,,,72
+Buffalo Ck (Wash. Co),B: Bethany-Wellsburg,13.0,I,10/16,150,250,Sm,-,,,,,74
+Canadaway,Hamlet-Laona,9.0,III-IV,67/100,-,-,-,-,,,,,396
+Casselman R,A: Grantsville-Salisb'y,6.7,I,15/23,63,119,Sm,Grantsville,,Markleton,2.8,,330
+Casselman R,B: Salisbury-Garrett,15.0,I,6/7,125,208,Sm,Grantsville,,Markleton,2.7,,331
+Casselman R,C: Garrett-Rockwood,7.5,I-II,15/20,250,417,Med,Markleton,2.2,3.6,,,332
+Casselman R,D: Rockwood-Markleton,7.0,II-III,20/38,325,542,Med,Markleton,2.1,3.5,,,333
+Casselman R,E: Markleton-Ft Hill,6.0,III,29/36,382,661,Med,Markleton,2.0,3.5,Ft Hill Br,3,brks,335
+Casselman R,F: Ft Hill-Harnedsville,5.7,II-III,24/33,425,708,Med,Markleton,2.0,4.0,Ft Hill Br,,,338
+Casselman R,G: Harnedsvl-Confluence,3.5,I,7/10,590,983,Med,Markleton,2.0,4.0,,,339
+Cattaraugus Ck,A: NY39-Otto Rd Br,19.0,I-II,-,-,-,Otto Br,3.5,,,,,398
+Cattaraugus Ck,B: Otto Rd Br-Gowanda,8.8,III-IV,20/40,-,-,-,OttoRdBr,3.5,,,,,398
+Cattaraugus Ck - S Br,Otto-main stem,12.0,III-IV,33/56,-,-,-,OttoRdBr,3.5,,,,,400
+Chartiers Ck,A: Washington-Van Emman,13.7,,7/13,60,100,Sm,Washington,,,,,,133
+Chartiers Ck,B: Van Emman-Kirwan Hts,15.0,I-II,8/11,200,333,Med,-,,,,,134
+Chartiers Ck,C: Kirwan Hts-McKeesRks,12.5,,6/10,257,292,Med,Carnegie,,,,,,135
+Chautauqua Ck,Lyons Rd-L Erie,13.1,III-IV,63/90,-,-,-,-,,,,,395
+Cheat R,A: Parsons-Rowlesburg,36.0,C-I,7/8,718,1697,Med,Parsons,2.9,5.0,Albright Br,3.0,4.5,361
+Cheat R,B: Rowlesburg-Lick Rn,5.2,III,19/23,972,2284,Med,Rowlesburg,,,Albright Br,0.5,4.0,362
+Cheat R,C: Lick Rn-Albright,6.3,,8/8,1000,1667,Med,-,,Albright Br,0.5,4.0,365
+Cheat R,D: Albright-Jenkins Br,11.4,IV-V,25/43,1300,2167,Lg,Albright Br,-0.5,5.0,Parsons,1.9,6.1,365
+Cheat R,E: Jenkins Br-L Lynn,9.0,III,12/20,1400,2333,Lg,Albright Br,0.0,4.0,Parsons,2.3,5.3,368
+Clarion R,A: Johnsonburg-Ridgway,8.5,C-I,8/11,204,385,Med,Johnsonburg,2.2,,Ridgway,4.0,,236
+Clarion R,B: Ridgway-Cooksburg,44.0,C-I,6/10,303,591,Med,Ridgway,3.0,,Cooksburg,2.8,5.0,237
+Clarion R,C: Cooksburg-Mill Ck,11.8,C-I,6/20,807,1462,Med,Cooksburg,2.3,,,,,238
+Clarion R,D: Mill Ck-Callensburg,21.0,C-I,6/10,951,1787,Med,Piney Dam,,,,,,239
+Clarion R,E: Callensburg-Parker,17.0,B,6/6,1246,2252,Lg,Piney Dam,,,,,,240
+Clarion R E Br,Glen Hazel-Johnsonburg,6.2,I,11/15,73,138,Sm,EBrClarionOutfl,2.0,,Ridgway,4.5,,257
+Clarion R W Br,Rocky Rn-Johnsonburg,9.9,I,13/18,63,126,Sm,Wilcox,2.0,3.0,Ridgway,4.5,,256
+Clear Shade Ck,Ashtola Rd-Shade Ck,5.5,IV,45/90,31,52,Tiny,-,Ferndale,,,,198
+Conemaugh R,A: Johnst'n-Nw Florence,12.9,II,7/11,715,1281,Med,Seward,3.0,,,,,166
+Conemaugh R,B: Nw Florence-Torrance,13.0,I-III,10/13,715,1281,Med,Seward,2.4,4.0,,,167
+Conemaugh R,C: Torrance-Conem'h Dam,17.0,A,flat,890,1483,Med,-,,,,,168
+Conemaugh R,D: Conem'h Dam-Saltsburg,6.9,C,6/6,1358,2882,Lg,Tunnelton,3.0,6.7,,,169
+Conneaut Ck,Cherry Hill-Conneaut,24.5,I,9/15,152,253,Sm,-,,,,,391
+Conneaut Outlet Marsh,A: Geneva Dike area,5.5,A,flat,75,125,Sm,-,,,,,272
+Conneaut Outlet Marsh,B: I79 area,3.7,A,flat,90,150,Sm,-,,,,,273
+Conneaut Outlet Marsh,C: I79-French Ck,6.0,B,1/1,101,168,Sm,-,,,,,274
+Connoquenessing Ck,A: Zelienople-CntryClb,11.0,I,4/4,356,466,Med,Zelienople,1.8,3.5,McConnells Mill,0.0,2.5,92
+Connoquenessing Ck,B: Country Club-Frisco,2.0,I,6/10,400,667,Med,Zelienople,1.7,3.5,McConnells Mill,0.0,2.5,93
+Connoquenessing Ck,C: Frisco-Ellport Pk,2.0,II,17/20,829,1382,Med,Zelienople,1.6,3.0,McConnells Mill,0.0,1.7,94
+Connoquenessing Ck,D: Ellport Pk-Ellw'dCty,3.0,II-III,11/12,832,1387,Med,Zelienople,1.6,3.0,McConnells Mill,0.0,1.7,96
+Connoquenessing Ck,E: Ellwood City-BeaverR,1.5,III,20/33,838,1397,Med,Zelienople,1.6,,McConnells Mill,0.0,1.7,97
+Cowanshannock Ck,A: Greendale-St Rt 66,8.0,II,18/26,40,67,Tiny,SR85Br (brks),6.0,,,,,207
+Cowanshannock Ck,B: St Rt 66-Allegheny R,3.6,IV,36/80,63,105,Sm,-,,,,,208
+Coxes Ck,Somerset-Rockwood,10.5,III,29/55,55,92,Tiny,-,,,,,343
+Crabtree Ck,Crabtree-New Alexandria,4.0,II,9/25,19,32,Tiny,-,Kingston,4.5,,,162
+Crooked Ck (Armstrong Co),A: SR 119-Creekside,6.5,I,8/8,50,83,Tiny,Idaho,Creekside,,,,201
+Crooked Ck (Armstrong Co),B: Creekside-Shelocta,8.1,I,5/5,90,150,Sm,Idaho,2.7,5.0,,,202
+Crooked Ck (Armstrong Co),C: Shelocta-Girty,10.5,I,4/6,175,295,Sm,Idaho,3.0,4.5,,,202
+Crooked Ck (Armstrong Co),D: Girty-Cochrans Ml,7.2,I-II,9/11,200,333,Med,Idaho,2.7,4.0,,,204
+Crooked Ck (Armstrong Co),E: CochranMl-C'kedCkDam,8.0,A,flat,278,423,Med,CrookedCkOutfl,,,,,,205
+Crooked Ck (Armstrong Co),F: CrookedCkDam-Rosston,7.0,B,5/5,292,487,Med,CrookedCkOutfl,,,,,,206
+Crooked Ck (Mercer Co),Hartstown-Osgood,12.0,I-II,5/6,46,77,Tiny,-,Greenville,2.0,,,126
+Cross Ck,A: Hayman Ck-Avella,2.3,I-II,13/13,30,50,Tiny,-,,,,,75
+Cross Ck,B: Avella-Pa state line,5.8,I-II,20/29,63,105,Sm,-,,,,,76
+Cross Ck,C: Pa state line-Ohio R,7.0,II,24/28,63,105,Sm,-,,,,,77
+Cussawago Ck,Crossingville-mouth,28.5,C,2/2,90,130,Sm,Meadville,UnionCityOutfl,4.6,,,276
+Dark Shade Ck,Cairnbrook-Clr Shade Ck,1.9,IV-V,60/160,36,60,Tiny,-,Ferndale,3.6,,,199
+Deer Ck,SR 910-L Deer Ck,8.0,I,9/26,51,85,Tiny,-,,,,,151
+Dry Fk,A: Harman-Jenningston,7.0,III,36/40,-,-,-,Hendricks,3.0,,Parsons,4.5,,379
+Dry Fk,B: Jenningston-Hndricks,13.4,III-IV,24/31,345,832,Med,Hendricks,3.0,,Parsons,4.5,,379
+Dunbar Ck,Dunbar-Connellsville,6.4,III-IV,59/112,38,63,Tiny,-,,,,,324
+Dunkard Ck,SR 2019-Monongahela R,8.0,I,6/7,229,276,Med,Shannopin,,,,,,360
+Dunlap Ck,Allison-Brownsville,6.2,II,26/40,33,43,Tiny,Allison,,,,,,350
+E Sandy Ck,Van-Allegheny R,10.5,II-III,21/25,103,172,Sm,Van Br,IV,,Rouseville,3.5,,261
+Elk Ck,Daguscahonda-Ridgway,6.4,I-III,15/25,64,107,Sm,-,Wilcox,4.3,,,254
+Fike Rn/L Sandy Ck (Pa),Five Forks-Gibbon Glade,4.5,IV,93/180,28,47,Tiny,-,Rockville,8.6,,,375
+Fourmile Rn,SR 130-Darlington,10.0,III-IV I-II,28/80,39,65,Tiny,-,Kingston,4.5,6.0,,163
+French Ck,A: Pa line-UnionCityDam,15.3,I,10/20,92,153,Sm,Wattsburg,,,,,,262
+French Ck,B: UnCty Dam-CambrSpr,27.0,B,4/10,222,439,Med,Union City Otfl,2.3,5.0,,,264
+French Ck,C: CambrSpr-Saegerst'n,15.0,I,2/4,597,1064,Med,Meadville,2.0,,Saegerst'n Br,4.5,,265
+French Ck,D: Saegerst'n-Cochran'n,20.0,B,4/6,629,1056,Med,Meadville,2.0,,Saegerst'n Br,4.5,,266
+French Ck,E: Cochranton-Utica,8.8,C,3/3,998,1722,Med,Utica,1.6,5.5,,,267
+French Ck,F: Utica-Franklin,7.0,C-I,6/6,1028,1837,Med,Utica,1.6,5.5,,,268
+Georges Ck,US 119-New Geneva,8.0,II,18/20,16,18,Tiny,Smithfield,,,,,,359
+Glady Fk,Evenwood-PantherCamp Rn,10.4,II-III,26/38,-,-,-,Hndricks(DryFk),3.7,,Parsons,5.0,,380
+Indian Ck,A: JonesMill-Indianh'dL,16.0,I-II,13/20,33,55,Tiny,White Bridge,Ursina,2.0,,,326
+Indian Ck,B: Indianhead L-Yough R,4.9,V-VI,57/80,125,208,Sm,White Bridge,Ursina,2.0,,,327
+Jacobs Ck,A: Acme-Laurelville,4.5,IV,125/164,30,50,Tiny,Freeman Falls,34",24",,,319
+Jacobs Ck,B: Laurelville-Scottd'l,10.0,I,12/1,60,100,Sm,-,,,,,321
+Jacobs Ck,C: Scottdale-Chaintown,5.0,B,4/4,80,133,Sm,-,,,,,322
+Jacobs Ck,D: Chaintown-Jacobs Ck,7.1,II-III,32/41,95,158,Sm,Staff/takeout,2.2,,Connellsville,4.7,6.9,322
+Kinzua Ck,Westline-FS 150,5.5,I,18/29,46,78,Tiny,Guffey,3.0,,,,,290
+Kiskiminetas R,A: Saltsburg-Salina,6.7,B,6/6,1723,2872,Lg,Vandergrift,3.5,8.0,Tunnelton,3.0,6.7,155
+Kiskiminetas R,B: Salina-Freeport,21.0,B,3/3,1825,3106,Lg,Vandergrift,,,Tunnelton,3.0,6.7,156
+L Beaver Ck,A: BeaverSP-Freder'kt'n,6.5,I,10/11,450,750,Med,E Liverpool,2.9,4.7,,,78
+L Beaver Ck,B: Fredericktown-Ohio R,7.8,I-II,11/12,493,514,Med,E Liverpool,2.8,4.6,,,79
+L Beaver Ck M Fk,Coleman-Beaver SP,20.5,I,7/11,149,248,Sm,-,E Liverpool,4.3,,,84
+L Beaver Ck N Fk,Negley-Fredericktown,7.0,I-II,9/15,193,322,Med,-,,,,,81
+L Beaver Ck W Fk,West Point-Beaver SP,8.5,I,10/15,100,167,Sm,-,E Liverpool,4.3,,,82
+L Conemaugh R,A: Lilly-Portage,5.6,III-IV,53/100,60,100,Sm,-,,,,,186
+L Conemaugh R,B: Portage-South Fork,10.4,I,12/20,100,167,Sm,-,,,,,186
+L Conemaugh R,C: South Fork-Johnstown,10.2,II-III,23/30,183,328,Med,East Conemaugh,Seward,2.7,4.0,,187
+L Conemaugh R S Fk,Beaverdale-South Fork,7.3,III,58/100,64,107,Sm,-,,,,,189
+L Connoquenessing Ck,A: SR 3007-SR 528,6.3,II,16/36,45,75,Tiny,SR3205 br,2.0,,,,,112
+L Connoquenessing Ck,B: SR 528-w SR 3025,5.0,C-I,7/10,65,108,Sm,SR3205 br,1.5,,Zelienople,3.0,,113
+L Erie,A: Conneaut-Walnut Ck,18.5,A,lake,-,-,-,-,,,,,387
+L Erie,B: Walnut Ck-Erie dock,15.0,A,lake,-,-,-,-,,,,,388
+L Erie,C: Erie dock-Ripley NY,21.0,A,lake,-,-,-,-,,,,,389
+L Mahoning Ck,A: Nashv'l-RochesterM'l,6.0,II,25/40,20,33,Tiny,McCormick,,,,,,219
+L Mahoning Ck,B: RochesterM'l-SR 119,4.0,C-I,14/22,60,100,Sm,McCormick,,,,,,220
+L Mahoning Ck,C: SR 119-SR 210,5.0,C,6/6,70,117,Sm,McCormick,3.0,,,,,221
+L Mahoning Ck,D: SR 210-McCormick,4.0,B,4/4,80,133,Sm,McCormick,3.0,,,,,222
+L Mahoning Ck,E: McCormick-Smicksburg,5.0,C,6/6,87,153,Sm,McCormick,3.0,,,,,222
+L Mahoning Ck,F: Smicksb'g-MahoningCk,5.0,C,5/5,113,188,Sm,McCormick,3.0,,,,,223
+L Sandy (Lick) Ck,Worthville-Mayport,8.0,I,15/30,73,122,Sm,-,St Charles,6.3,,,229
+L Sandy Ck (WVa),A: Hazelton-Brandnv'lPk,8.5,II-III,31/80,-,-,-,Bruceton,2.0,,,,,372
+L Sandy Ck (WVa),B: Brandonv'lPk-W VA 26,2.5,,18/35,-,-,-,-,,,,,373
+L Sandy Ck (WVa),C: W VA 26-Big Sandy Ck,2.8,III-IV,32/80,-,-,-,Rt 26 Br,0.5,2.0,,,373
+L Shenango R,jct Crooked Ck-mouth,3.2,I,9/20,104,142,Sm,Greenville,2.0,,,,,125
+L Toby Ck (Elk Co),Brockway-Clarion R,11.0,C-I,10/14,91,152,Sm,-,Wilcox,2.0,,,251
+Laurel Fk,US 33-Jenningston,13.0,III-IV,54/72,-,-,-,Hendr'ks(DryFk),3.7,,Parsons,5.0,,380
+Laurel Hill Ck,A: LaurelHlSP-WhipkeyDm,8.2,III,31/50,60,100,Sm,Ursina,2.1,,,,,340
+Laurel Hill Ck,B: Whipkey Dam-Ursina,8.0,III,40/70,121,266,Sm,Ursina,1.9,3.1,,,341
+Loyalhanna Ck,A: Rector-Ligonier,4.9,II,8/20,70,117,Sm,Kingston,4.5,5.3,,,157
+Loyalhanna Ck,B: Ligonier-KingstonDam,6.9,II,18/50,120,200,Sm,Kingston,3.2,5.3,,,158
+Loyalhanna Ck,C: Kingston Dam-Latrobe,4.6,I-II,9/15,172,303,Sm,Kingston,3.4,5.0,,,159
+Loyalhanna Ck,D: Latrobe-N Alexandria,12.0,B-I,3/8,265,439,Med,Kingston,,,,,,160
+Loyalhanna Ck,E: LoyalhannaDm-Saltsbg,4.0,B-I,10/15,292,481,Med,Loyalhanna Outfl,,,,,,161
+M Fk Tygart R,A: Laurel Fk-Audra SP,5.0,III,26/40,-,-,-,Audra St Pk,3.5,6.0,Belington,4.0,,384
+M Fk Tygart R,B: Audra SP- Tygart R,6.0,IV,65/120,-,-,-,Audra St Pk,3.5,5.0,Belington,4.0,,384
+Mahoning Ck,A: Big Rn-Punxsutawney,10.9,C,7/11,158,277,Sm,Punxsutawney,,,,,,212
+Mahoning Ck,B: Punxsutawney-Valier,9.5,B,3/3,158,269,Sm,Punxsutawney,,,,,,213
+Mahoning Ck,C: Valier-SR 839,17.1,C,7/9,200,333,Med,-,McCormick,1.9,2.6,,214
+Mahoning Ck,D: SR 839-Mahoning Dam,6.0,A,flat,321,561,Med,-,,,,,215
+Mahoning Ck,E: MahoningDm-Putneyv'l,6.5,I-II,12/13,344,601,Med,Mahoning Outfl,2.8,3.9,,,216
+Mahoning Ck,F: Putneyv'l-AlleghenyR,16.5,I,7/13,425,708,Med,Mahoning Outfl,3.0,,,,,218
+Mahoning R,Alliance-New Castle,120.0,A-I,3/,1140,1900,Med,-,,,,,128
+Meadow Rn,A: SR 381-SR 2011,5.0,II-III,53/90,30,50,Tiny,-,Ursina,2.1,,,328
+Meadow Rn,B: SR2011-YoughioghenyR,3.0,IV-V,88/135,41,68,Tiny,-,Ursina,2.1,,,329
+Mill Ck (Clarion Co),below SR 949-Clarion L,10.5,II,23/52,59,98,Tiny,-,Cooksburg,6.5,,,243
+Mill Ck (Elk Co),A: SR 948-Ridgway Res,9.0,III,25/28,25,42,Tiny,-,Wilcox,4.3,,,252
+Mill Ck (Elk Co),B: Ridgway Res-ClarionR,2.2,III,32/33,32,53,Tiny,-,Wilcox,4.3,,,253
+Mill Ck (Jefferson Co),Allen Mills-Pt Barnett,9.0,II,35/52,53,88,Tiny,Brookville,St Charles,7.0,,,234
+Mill Ck (Westmoreld Co),Waterford-Ligonier,5.0,II,30/55,33,55,Tiny,-,Kingston,4.5,6.0,,165
+Millstone Ck - E Br,A: GurglgRn-LoletaRecAr,5.7,III+,42/112,26,43,Tiny,-,Ridgway,8.0,,,246
+Millstone Ck - E Br,B: LoletaRecAr-ClarionR,4.0,II-III,35/52,54,90,Tiny,-,Ridgway,6.0,,,247
+Millstone Ck - W Br,FS 130-Clarion R,12.2,I-II,34/47,24,40,Tiny,-,Ridgway,8.5,9.5,,245
+Monongahela R,Fairmont WVa-Pittsburgh,128.0,A,pool,7337,12500,Huge,-,,,,,296
+Montour Rn,Enlow-Groveton,11.0,II-III,22/33,29,48,Tiny,BeaverGrRd Br,0.0,2.0,,,131
+Neshannock Ck,A: Neshan'kFl-Lakew'dPk,7.0,II,27/60,228,243,Med,-,,,,,122
+Neshannock Ck,B: Lakewo'd Pk-N Castle,4.3,I-II,18/26,244,407,Med,-,,,,,123
+Ohio R,Pittsburgh-Pa st line,40.0,A,pool,19500,33040,Huge,Dashields L&D,,,,,,68
+Oil Ck,A: Centerville-Titusv'l,12.0,I,7/10,250,417,Med,Rouseville,3.0,5.0,,,277
+Oil Ck,B: Titusvi'l-Rouseville,12.0,I,10/12,300,538,Med,Rouseville,2.5,5.0,,,277
+Otter Ck,US 19-Mercer,7.0,I,18/22,49,82,Tiny,-,,,,,124
+Paint Ck,Windber-Stony Ck,2.7,V+,130/200,37,62,Tiny,-,Ferndale,,,,195
+Peters Ck,Snowden-USX ClairtonWks,7.0,I,14/20,51,85,Tiny,-,,,,,348
+Pine Ck (Allegheny Co),A: North Pk-Allison Pk,6.6,C-I,7/26,45,75,Tiny,-,,,,,149
+Pine Ck (Allegheny Co),B: Allison Pk-Etna,6.5,I-II,5/16,67,112,Sm,-,,,,,150
+Pine Ck (Armstrong Co),A: Echo-Pine Furnace,7.0,I-II,20/30,20,33,Tiny,-,,,,,209
+Pine Ck (Armstrong Co),B: Pine Furnace-St Rt66,1.5,,26/28,30,50,Tiny,-,,,,,210
+Pine Ck (Armstrong Co),C: St Rt 66-Allegheny R,3.0,II-III,39/100,38,63,Tiny,-,,,,,210
+Pine Ck (Pa Grand Cnyn),Ansonia-Slate Run,29.1,II,15/27,604,816,Med,Cedar Run,2.0,3.5,,,402
+Pithole Ck,Pithole-Oleoplois,6.5,III,44/70,42,70,Tiny,-,Rouseville,4.0,5.0,,279
+Potomac R,HarpersFy-SandyHook Md,3.0,II,14/14,-,-,-,Hancock,2.0,4.0,,,408
+Potomac R N Br,GormaniaWVa-Kitzmil'rMd,15.0,IV,47/66,225,452,Med,Kitzmiller,4.0,6.0,,,410
+Presque Isle,Graveyard Pond & return,4.0,A,lake,-,-,-,-,,,,,390
+Quemahoning Ck,Boswell-Reservoir,3.4,III,50/65,98,163,Sm,-,,,,,200
+Raccoon Ck,A: Raccoon-Murdocksv'l,12.0,I,10/20,75,125,Sm,Moffatts Mills,2.5,,,,,86
+Raccoon Ck,B: Murdocksville-SR 151,11.0,C-I,6/10,125,208,Sm,Moffatts Mills,2.4,,,,,87
+Raccoon Ck,C: SR 151-SR 18,13.0,I,8/14,178,193,Sm,Moffatts Mills,2.4,,,,,88
+Red Bank Ck,A: Brookville-Summerv'l,10.5,C-I,6/10,220,367,Med,Brookville,St Charles,3.8,,,225
+Red Bank Ck,B: Summerv'l-NewBethl'm,16.5,C-I,6/11,350,583,Med,St Charles,3.8,5.5,,,226
+Red Bank Ck,C: New Bethl'm-Rimer,27.8,I,9/29,528,873,Med,St Charles,3.6,6.9,,,227
+Red Bank Ck N Fk,Richardsville-Brookv'l,10.0,I,13/17,98,163,Sm,Brookville,St Charles,4.5,8.0,,231
+Redstone Ck,Smock-Albany,8.5,II,15/20,74,101,Sm,Waltersburg,0.8,,,,,349
+S Sandy Ck,Game Lands #39-Pecan,8.5,I-II,23/28,31,52,Tiny,-,Rouseville,4.5,6.5,,260
+Salmon Ck,A: FS 128-FS 145,6.8,III,43/89,40,67,Tiny,-,Cooksburg,8.0,,,285
+Salmon Ck,B: FS 145-Kelletsville,7.1,II,25/42,55,92,Tiny,-,Cooksburg,8.0,,,286
+Sandy Ck,A: Goddard SP-Raymilton,9.0,C,8/13,100,167,Sm,-,Rouseville,4.0,,,258
+Sandy Ck,B: Raymilton-Pecan,8.5,I-II,14/14,161,268,Sm,SR965br(blks),8.0,5.5,Rouseville,3.0,,259
+Sandy Lick Ck,Reynoldsville-Brookv'l,20.0,I-II,8/19,114,190,Sm,Brookville,St Charles,4.3,6.0,,233
+Sewickley Ck,Yukon-Youghiogheny R,12.0,III,13/33,165,275,Sm,-,,,,,318
+Shade Ck,Dark Shade Ck-Stony Ck,9.8,III,56/75,97,162,Sm,H'lsb'o(brks),12.0,9.0,Ferndale,3.6,4.6,196
+Shavers Fk,A: Bemis-US 33 Br,14.0,II-IV,40/65,150,250,Sm,Parsons(ShvrFk),CR33/8 Br,1.5,2.5,,377
+Shavers Fk,B: US 33-Parsons,22.0,I-II,19/19,214,553,Med,Parsons(ShvrFk),CR33/8 Br,1.0,2.5,,377
+Shenandoah R,Millvi'lWVa-SandyHookMd,7.0,II-III,10/20,3040,2698,Lg,Millv'l,2.0,4.0,,,406
+Shenango R,A: Pymatm'gDam-Greenv'l,8.5,A-B,4/6,167,208,Sm,Pymatuning Outfl,4.6,5.6,,,116
+Shenango R,B: Greenv'l-New Hamburg,9.5,A,2/2,337,481,Med,Transfer,2.5,,,,,117
+Shenango R,C: NHamburg-Sharpsv'lDm,16.5,A,flat,400,667,Med,Transfer,2.5,,,,,118
+Shenango R,D: Sharpsv'lDm-WMiddlsx,12.0,C-I,5/6,584,761,Med,Sharpsville,2.6,,,,,119
+Shenango R,E: W Middlesex-HarborBr,13.8,B,2/2,700,1167,Med,Sharpsville,2.6,,,,,120
+Shenango R,F: Harbor Br-Wampum,14.5,B-I,3/3,792,871,Med,New Castle,Sharpsville,2.6,,,121
+Slippery Rock Ck,A: Rock Falls-MooresCor,9.0,C,4/10,150,250,Sm,Wurtemburg,2.3,,McConnells Mill,2.0,3.0,98
+Slippery Rock Ck,B: MooresCor-KennedyMil,8.5,C,5/6,260,433,Med,Wurtemburg,1.9,,McConnells Mill,,,99
+Slippery Rock Ck,C: Kennedy Mill-Rose Pt,1.5,II,11/11,300,500,Med,Wurtemburg,1.5,,McConnells Mill,,,100
+Slippery Rock Ck,D: Rose Point-Breakneck,2.5,III-IV,30/40,360,600,Med,Wurtemburg,1.0,2.0,McConnells Mill,-0.2,1.0,101
+Slippery Rock Ck,E: Breakneck-Harris Br,3.2,II-III,23/27,380,633,Med,Wurtemburg,1.0,2.5,McConnells Mill,-0.2,1.5,104
+Slippery Rock Ck,F: Harris Br-Ellport Pk,6.0,I,12/13,398,572,Med,Wurtemburg,1.3,3.0,McConnells Mill,0.2,2.0,105
+Spring Ck,Duhring-Hallton,10.5,I,15/25,88,147,Sm,-,Wilcox,2.5,,,248
+Spring Ck E Br,Pigs Ear-Duhring,5.5,II,11/30,24,40,Tiny,-,Ridgway,7.0,,,249
+Stony Ck,A: Shanksville-Kantner,7.0,IV,61/80,85,142,Sm,-,,,,,190
+Stony Ck,B: Kantner-Holsopple,12.0,I-II,19/30,244,407,Med,Hollsopple,3.0,5.0,,,191
+Stony Ck,C: Hollsopple-Kring,8.5,IV,34/66,375,625,Med,Ferndale,3.4,3.9,Hollsopple,1.5,3.5,191
+Stony Ck,D: Kring-Johnstown,7.0,B-I,11/20,451,771,Med,Ferndale,,,,,,193
+Stony R,VEPCO Dam-N Br Potomac R,7.6,IV-V,75/150,-,-,-,Kitzmiller,4.0,6.5,,,412
+Sugar Ck,Cooperstown-Sugar Ck,7.5,I-II,16/27,166,267,Sm,Sugar Creek,Rouseville,3.7,5.0,,269
+Sugar Ck E Br,Wallaceville-Cooperst'n,7.0,I-II,12/20,49,82,Tiny,-,Rouseville,4.5,,,271
+Susquehanna R W Br,Shawville-Keating,54.0,I,6/12,1462,2447,Lg,Karthaus,2.0,,,,,404
+Ten Mile Ck,A: Ten Mile-Marianna,6.3,I,7/7,100,167,Sm,Marianna,2.2,,,,,352
+Ten Mile Ck,B: Marianna-Clarksville,9.0,I-II,11/23,150,250,Sm,Marianna,2.0,,,,,353
+Ten Mile Ck,C: Clarksville-Mon R,2.5,A,pool,388,647,Med,-,,,,,354
+Ten Mile Ck S Fk,A: Waynesburg-Jefferson,7.0,C-I,7/8,180,201,Med,Jefferson,2.0,,,,,355
+Ten Mile Ck S Fk,B: Jefferson-Clarksv'l,9.0,I-II,10/17,199,332,Med,Jefferson,2.0,,,,,356
+Tionesta Ck,A: Sheffield-Lynch,9.0,I,7/8,233,426,Med,Lynch,2.8,,,,,281
+Tionesta Ck,B: Lynch-Kellettville,15.0,C-I,5/8,307,594,Med,Sheffield,2.1,,Lynch,,,282
+Tionesta Ck,C: Kellettv'l-NebrBr,11.4,C-I,7/7,469,824,Med,Sheffield,2.1,,Lynch,,,283
+Tionesta Ck,D: Tionesta blw NebrBr,5.5,A,flat,479,891,Med,Tionesta Outfl,,,,,,284
+Tionesta Ck S Br,Brookston-Barnes,5.3,I-II,14/22,85,156,Sm,-,Lynch,3.0,,,289
+Tionesta Ck W Br,Weldbank-Sheffield,6.0,C-I,7/9,128,248,Sm,-,Lynch,3.0,,,288
+Toby Ck (Clarion Co),A: SR1013-Game Lnds #72,7.0,I,23/47,25,42,Tiny,-,Cooksburg,7.0,,,241
+Toby Ck (Clarion Co),B: Game lnd#72-ClarionL,2.1,III,29/60,35,58,Tiny,-,Cooksburg,6.5,,,242
+Tubmill Ck,SR 711-Bolivar,5.6,I-II,20/40,54,90,Tiny,-,,,,,185
+Turtle Ck,A: W Export-Abers Ck,4.1,I,22/40,45,75,Tiny,-,,,,,299
+Turtle Ck,B: Abers Ck-Trafford,5.0,I,6/22,56,76,Tiny,-,,,,,300
+Turtle Ck,C: Trafford-Mon R,7.5,I,7/9,148,247,Sm,-,,,,,300
+Twentymile Ck,above Ripley NY-L Erie,10.6,IV,47/100,36,60,Tiny,-,,,,,393
+Two Lick Ck,A: Wandin-Clymer,5.4,I,15/20,70,117,Sm,-,,,,,173
+Two Lick Ck,B: Clymer-Two Lick Res,4.5,C,12/14,80,133,Sm,-,,,,,174
+Two Lick Ck,C: IndianaWtr-HomerCty,7.0,I-II,13/17,100,167,Sm,"fl gts opn",0.3,1.0,Graceton,2.5,,175
+Two Lick Ck,D: HomerCity-Blackl'kBr,7.0,C-II,7/8,171,284,Sm,Graceton,2.5,,,,,176
+Tygart Valley R,"Valley Falls",0.5,VI,40/40,-,-,-,-,,,,,383
+Tygart Valley R,above Arden-Big Cove Rn,8.0,V,27/39,916,1926,Med,Philippi,2.5,4.5,,,382
+Tygart Valley R,Belington-Buckhannon,11.0,IV-V,37/65,408,814,Med,Belington,2.5,6.8,,,382
+Tygart Valley R,Norton-Junior,6.5,III-IV,25/36,-,-,-,Belington,4.0,5.0,,,381
+Wheeling Ck,Majorsville-Wheeling,29.5,I-II,7/10,282,333,Med,Elm Grove,,,,,,71
+Whiteley Ck,SR 2011-SR 88,2.5,III,18/25,54,90,Tiny,-,,,,,358
+Whites Ck,Unamis-Harnedsville,7.0,III,80/100,36,60,Tiny,-,Markleton,5.0,,,342
+Wolf Ck,A: above Grove City,4.0,A,flat,13,22,Tiny,-,,,,,107
+Wolf Ck,B: GroveCity-CourtneyMl,4.5,C-I,9/10,87,133,Sm,Wurtemburg,1.6,4.6,McConnells Mill,1.0,5.0,108
+Wolf Ck,C: CourtneysMl-Slip'yRk,7.0,I-II,11/20,100,167,Sm,Wurtemburg,1.6,4.6,McConnells Mill,1.0,5.0,109
+Yellow Ck (Butler Co),M Lancaster-L Connie,5.0,C-I,15/15,17,28,Tiny,-,Zelienople,3.0,,,115
+Yellow Ck (Indiana Co),A: YellowCkSP-FerrierRd,3.0,I-II,24/29,40,67,Tiny,-,,,,,178
+Yellow Ck (Indiana Co),B: FerrierRnRd-SR954Br,2.5,I-II,32/46,55,92,Tiny,Homer City,2.3,,Wtr works dam,3.5,4.5,179
+Yellow Ck (Indiana Co),C: SR 954 Br-SR 56 Br,3.5,I-II,23/80,57,107,Tiny,Homer City,2.3,,,,,180
+Youghiogheny R,A: Swal'wFallsSP-SangRn,5.7,V-VI,42/130,200,333,Med,Sang Run,0.8,2.7,,,303
+Youghiogheny R,B: Sang Run-Friendsv'l,9.3,V-VI,56/100,295,646,Med,Sang Run,1.8,2.8,,,305
+Youghiogheny R,C: Friendsv'l-Conflnce,5.0,A,flat,436,878,Med,YoughOutfl,,,,,,307
+Youghiogheny R,D: Confluence-Ohiopyle,11.0,II,9/20,1029,2005,Med,Confluence,1.8,3.5,Ohiopyle,1.3,3.5,308
+Youghiogheny R,E: Ohiopyle-Bruner Rn,10.1,III-IV,17/45,1200,2000,Lg,Confluence,1.9,3.5,Ohiopyle,1.4,3.5,311
+Youghiogheny R,F: BrunerRn-S.Connlsv'l,9.0,II-III,10/17,1300,2167,Lg,Confluence,2.4,,Connellsville,2.7,,313
+Youghiogheny R,G: S Connelsv'l-Dawson,5.7,C-I,5/6,1350,2580,Lg,Connellsville,2.1,4.5,,,314
+Youghiogheny R,H: Dawson-Whitsett,9.7,C-I,6/8,1400,2333,Lg,Connellsville,2.1,4.5,,,315
+Youghiogheny R,I: Whitsett-McKeesport,28.8,C,1/1,1700,3043,Lg,Sutersville,Connellsville,2.0,4.5,,316
